@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Livvic&family=Sora:wght@300;400&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+.content-card {
+    width: 336px;
+    height: 430px;
+    border: solid 1px #FAFAF9;
+    border-radius: 1em;
+    align-content: center;
+    margin: 0 auto;
+    margin-top: 130px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.content-img {
+    width: 304px;
+    height: 204px;
+    border: solid transparent transparent;
+    border-radius: 1em;
+}
+
+.content-img,
+img {
+    width: 304px;
+    height: 204px;
+    border-radius: 1em;
+}
+
+.content-components {
+    margin-top: 16px;
+    margin-left: 16px;
+    margin-right: 16px;
+    width: 304px;
+}
+
+h6{
+   margin: 0;
+   margin-top: 16px; 
+   width: 80px;
+   height: 15px;
+   font-family: 'Sora', sans-serif;
+   font-size: 10px;
+   padding: 5px 1px;
+   text-align: center;
+   border-radius: 2em;
+   background-color: #E6D6FC;
+   color: #883AE1;
+}
+
+h1{
+margin: 0;
+margin-top: 16px;
+font-family: 'Sora', sans-serif;
+font-size: 16px;
+}
+
+p{
+    margin: 0;
+    margin-top: 6px;
+    font-family: 'Sora', sans-serif;    
+    font-size: 13px;
+    padding: 0px 16px 0px 0px;
+    color: #6C727F;
+}
+
+hr{
+margin: 0;
+margin-top: 20px;
+color: black;
+}
+
+.content-footer{
+    margin-top: 16px;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+.content-footer, h5{
+    font-family: 'Sora', sans-serif;
+    font-size: 12px;
+    color: #6C727F;
+}
+
